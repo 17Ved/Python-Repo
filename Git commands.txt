@@ -1,8 +1,9 @@
 1st. Step - Create a new folder 'Repos'
+Go to Github & Create new Repository, copy url of that repository
 
-2nd. Step - command -- git clone 'url of your repository'
+2nd. Step - type command in that 'Repos' folder -- git clone 'url of your repository' Folder Name
 
-3rd. Step - Make a file "README.md"
+3rd. Step - Make a file "README.md" copy paste into folder inside 'Repos' folder
 
 4th. Step - command -- git add 'Filename'
 
