@@ -1,0 +1,50 @@
+# for index, character in enumerate("abcdefgh"):
+#     print(index, character)                     # printing index positions of characters using enumerate function
+
+
+for t in enumerate("abcdefgh"):         # we'll get tuples in the output, each tuple contains the index position and a character at that position
+    print(t)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
