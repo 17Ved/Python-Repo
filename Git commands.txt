@@ -1,0 +1,23 @@
+1st. Step - Create a new folder 'Repos'
+
+2nd. Step - command -- git clone 'url of your repository'
+
+3rd. Step - Make a file "README.md"
+
+4th. Step - command -- git add 'Filename'
+
+5th. Step - command -- git commit -m "Commit name"
+-m stands for "message"
+
+6th. Step - command -- git push -u origin master/main
+
+Error commands 
+--
+
+1. git config --global user.name 'usr name'
+2. git config --global user.email 'email'
+3. git remote
+4. git remote add origin "url of repository"
+5. git init
+6. git commit -m "commit name"
+7. git push -u origin master/main
